@@ -1,0 +1,31 @@
+1. What are the two values of the Boolean data type? How do you write them?
+True, False
+val = True
+val_two = False
+
+2. What are the three Boolean operators?
+And, Or, not
+
+3. Write out the truth tables of each boolean operator
+
+P   Q   AND     OR      NOT P       NOT Q
+t   t   t       f       f           f
+t   f   f       t       f           t
+f   t   f       f       t           f
+f   f   f       f       t           t
+
+
+
+5. What are the six comparison operators?
+== 
+!= 
+>
+<
+>=
+<= 
+
+6. What is the difference between the equal to operator and the assignment operator?
+= assigns a value, == checks if two values are the same
+
+7. Explain what a condition is and where you would use one
+Also an expression, it evaluates to a boolean value
